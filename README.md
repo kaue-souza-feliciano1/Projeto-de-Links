@@ -18,7 +18,7 @@ Projeto gratuito promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="foto do projeto" src="./github/Cover.png" width="100%">
+  <img alt="foto do projeto" src="K:\discover\.github\Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
